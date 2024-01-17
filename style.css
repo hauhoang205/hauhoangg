@@ -1,11 +1,14 @@
-h1 {
-    color: blue;
-}
-p {
-    color: green;
-    font-style: italic;
-    font-weight: bold;
-}
-strong {
-    color: red;
+.box{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid red;
+    margin: 5px;
+    border-radius: 11px;
+    padding: 20px;
+    margin: 30px;
+    box-shadow: 5px-5px 10px red;
+    background: azure;
+    background-color: azure;
+    background-image: url(imay/The-hien-thi-hinh-anh-img-trong-HTML.webp);
 }
